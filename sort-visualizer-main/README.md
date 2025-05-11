@@ -11,8 +11,7 @@ The algorithms used in the app are:
 * Bubble sort  
 * Insertion sort
 * Selection sort
-* Bogo sort
-* Miracle sort
+ 
 
 # Time complexity
 Here I'll be listing every algorithm's time complexity, if you want to learn more about each algorithm, you can access it by clicking the algorithm's name 
@@ -36,14 +35,5 @@ Here I'll be listing every algorithm's time complexity, if you want to learn mor
   Average case: O(n^2)  
   Worst case: O(n^2)  
   
-- ## [Bogo sort](https://www.geeksforgeeks.org/bogosort-permutation-sort/)
-  Best case: O(n)  
-  Average case: O(n n!)  
-  Worst case: O(?)  
-  
-- ## [Miracle sort](https://www.thecshandbook.com/Miracle_Sort)
-  Miracle sort is a joke algorithm which does nothing, but theoretically, if given infinite time, enough bit flips would occur for the list to sort on its own.  
-  Best case: O(?)  
-  Average case: O(?)  
-  Worst case: O(?)  
+ 
 
